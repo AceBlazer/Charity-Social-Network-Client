@@ -1,0 +1,517 @@
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\obj\Debug\charité.csprojResolveAssemblyReference.cache
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\roslyn\csc.exe
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\roslyn\vbc.exe
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\roslyn\VBCSCompiler.exe
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\charité.dll.config
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\charité.dll
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\charité.pdb
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\MySql.Data.dll
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\bin\MySql.Data.xml
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\obj\Debug\charité.dll
+c:\users\jasser\documents\visual studio 2015\Projects\charité\charité\obj\Debug\charité.pdb
+C:\Users\JASSER\Documents\Visual Studio 2015\Projects\charité\charité\bin\ASPSnippets.FaceBookAPI.dll
+C:\Users\JASSER\Documents\Visual Studio 2015\Projects\charité\charité\bin\Microsoft.Owin.dll
+C:\Users\JASSER\Documents\Visual Studio 2015\Projects\charité\charité\bin\Microsoft.Owin.Security.dll
+C:\Users\JASSER\Documents\Visual Studio 2015\Projects\charité\charité\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JASSER\Documents\Visual Studio 2015\Projects\charité\charité\bin\Newtonsoft.Json.dll
+C:\Users\JASSER\Documents\Visual Studio 2015\Projects\charité\charité\bin\Owin.dll
+C:\Users\JASSER\Documents\Visual Studio 2015\Projects\charité\charité\bin\Microsoft.Owin.xml
+C:\Users\JASSER\Documents\Visual Studio 2015\Projects\charité\charité\bin\Microsoft.Owin.Security.xml
+C:\Users\JASSER\Documents\Visual Studio 2015\Projects\charité\charité\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JASSER\Documents\Visual Studio 2015\Projects\charité\charité\bin\Newtonsoft.Json.xml
+C:\Users\JASSER\Documents\Visual Studio 2015\Projects\charité\charité\bin\ASPSnippets.GoogleAPI.dll
+C:\Users\JASSER\Documents\Visual Studio 2015\Projects\charité\charité\bin\ASPSnippets.TwitterAPI.dll
+H:\charité\charité\bin\roslyn\csc.exe
+H:\charité\charité\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\charité\charité\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\charité\charité\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\charité\charité\bin\roslyn\System.Collections.Immutable.dll
+H:\charité\charité\bin\roslyn\System.Reflection.Metadata.dll
+H:\charité\charité\bin\roslyn\vbc.exe
+H:\charité\charité\bin\roslyn\VBCSCompiler.exe
+H:\charité\charité\bin\roslyn\VBCSCompiler.exe.config
+H:\charité\charité\bin\charité.dll.config
+H:\charité\charité\bin\charité.dll
+H:\charité\charité\bin\charité.pdb
+H:\charité\charité\bin\ASPSnippets.FaceBookAPI.dll
+H:\charité\charité\bin\ASPSnippets.GoogleAPI.dll
+H:\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\charité\charité\bin\Microsoft.Owin.dll
+H:\charité\charité\bin\Microsoft.Owin.Security.dll
+H:\charité\charité\bin\Microsoft.Owin.Security.Google.dll
+H:\charité\charité\bin\MySql.Data.dll
+H:\charité\charité\bin\Newtonsoft.Json.dll
+H:\charité\charité\bin\Owin.dll
+H:\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\charité\charité\bin\Microsoft.Owin.xml
+H:\charité\charité\bin\Microsoft.Owin.Security.xml
+H:\charité\charité\bin\Microsoft.Owin.Security.Google.xml
+H:\charité\charité\bin\MySql.Data.xml
+H:\charité\charité\bin\Newtonsoft.Json.xml
+H:\charité\charité\obj\Debug\charité.csprojResolveAssemblyReference.cache
+H:\charité\charité\obj\Debug\charité.dll
+H:\charité\charité\obj\Debug\charité.pdb
+O:\charité\charité\obj\Debug\charité.csprojResolveAssemblyReference.cache
+O:\charité\charité\bin\roslyn\csc.exe
+O:\charité\charité\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+O:\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+O:\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.dll
+O:\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+O:\charité\charité\bin\roslyn\Microsoft.CSharp.Core.targets
+O:\charité\charité\bin\roslyn\Microsoft.VisualBasic.Core.targets
+O:\charité\charité\bin\roslyn\System.Collections.Immutable.dll
+O:\charité\charité\bin\roslyn\System.Reflection.Metadata.dll
+O:\charité\charité\bin\roslyn\vbc.exe
+O:\charité\charité\bin\roslyn\VBCSCompiler.exe
+O:\charité\charité\bin\roslyn\VBCSCompiler.exe.config
+O:\charité\charité\bin\charité.dll.config
+O:\charité\charité\bin\charité.dll
+O:\charité\charité\bin\charité.pdb
+O:\charité\charité\bin\ASPSnippets.FaceBookAPI.dll
+O:\charité\charité\bin\ASPSnippets.GoogleAPI.dll
+O:\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+O:\charité\charité\bin\Microsoft.Owin.dll
+O:\charité\charité\bin\Microsoft.Owin.Security.dll
+O:\charité\charité\bin\Microsoft.Owin.Security.Google.dll
+O:\charité\charité\bin\MySql.Data.dll
+O:\charité\charité\bin\Newtonsoft.Json.dll
+O:\charité\charité\bin\Owin.dll
+O:\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+O:\charité\charité\bin\Microsoft.Owin.xml
+O:\charité\charité\bin\Microsoft.Owin.Security.xml
+O:\charité\charité\bin\Microsoft.Owin.Security.Google.xml
+O:\charité\charité\bin\MySql.Data.xml
+O:\charité\charité\bin\Newtonsoft.Json.xml
+O:\charité\charité\obj\Debug\charité.dll
+O:\charité\charité\obj\Debug\charité.pdb
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\roslyn\csc.exe
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\roslyn\vbc.exe
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\roslyn\VBCSCompiler.exe
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\charité.dll.config
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\charité.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\charité.pdb
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\ASPSnippets.FaceBookAPI.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\ASPSnippets.GoogleAPI.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\Microsoft.Owin.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\Microsoft.Owin.Security.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\MySql.Data.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\Newtonsoft.Json.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\Owin.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\Microsoft.Owin.xml
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\Microsoft.Owin.Security.xml
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\MySql.Data.xml
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\bin\Newtonsoft.Json.xml
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\obj\Debug\charité.csprojResolveAssemblyReference.cache
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\obj\Debug\charité.dll
+C:\Users\SELLAMI\Desktop\Nouveau dossier (5)\charité\charité\obj\Debug\charité.pdb
+C:\Users\JASSER\Desktop\oussama\charité\charité\obj\Debug\charité.csprojResolveAssemblyReference.cache
+C:\Users\JASSER\Desktop\oussama\charité\charité\obj\Debug\charité.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\obj\Debug\charité.pdb
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\roslyn\csc.exe
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\roslyn\vbc.exe
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\roslyn\VBCSCompiler.exe
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\charité.dll.config
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\charité.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\charité.pdb
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\ASPSnippets.FaceBookAPI.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\ASPSnippets.GoogleAPI.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Microsoft.Owin.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Microsoft.Owin.Security.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\MySql.Data.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Newtonsoft.Json.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Owin.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Microsoft.Owin.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Microsoft.Owin.Security.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\MySql.Data.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Newtonsoft.Json.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.Auth.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.Calendar.v3.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.Core.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.PlatformServices.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Zlib.Portable.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.pdb
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.Auth.pdb
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.Auth.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.Auth.PlatformServices.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.Calendar.v3.pdb
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.Calendar.v3.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.Core.pdb
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.Core.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.PlatformServices.pdb
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Google.Apis.PlatformServices.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Zlib.Portable.xml
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\client_secret.json
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Json.dll
+C:\Users\JASSER\Desktop\oussama\charité\charité\bin\Json.pdb
+H:\oussama\charité\charité\bin\roslyn\csc.exe
+H:\oussama\charité\charité\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\oussama\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\oussama\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\oussama\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\oussama\charité\charité\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\oussama\charité\charité\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\oussama\charité\charité\bin\roslyn\System.Collections.Immutable.dll
+H:\oussama\charité\charité\bin\roslyn\System.Reflection.Metadata.dll
+H:\oussama\charité\charité\bin\roslyn\vbc.exe
+H:\oussama\charité\charité\bin\roslyn\VBCSCompiler.exe
+H:\oussama\charité\charité\bin\roslyn\VBCSCompiler.exe.config
+H:\oussama\charité\charité\bin\client_secret.json
+H:\oussama\charité\charité\bin\charité.dll.config
+H:\oussama\charité\charité\bin\charité.dll
+H:\oussama\charité\charité\bin\charité.pdb
+H:\oussama\charité\charité\bin\ASPSnippets.FaceBookAPI.dll
+H:\oussama\charité\charité\bin\ASPSnippets.GoogleAPI.dll
+H:\oussama\charité\charité\bin\Google.Apis.Auth.dll
+H:\oussama\charité\charité\bin\Google.Apis.Auth.PlatformServices.dll
+H:\oussama\charité\charité\bin\Google.Apis.Calendar.v3.dll
+H:\oussama\charité\charité\bin\Google.Apis.Core.dll
+H:\oussama\charité\charité\bin\Google.Apis.dll
+H:\oussama\charité\charité\bin\Google.Apis.PlatformServices.dll
+H:\oussama\charité\charité\bin\Json.dll
+H:\oussama\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\oussama\charité\charité\bin\Microsoft.Owin.dll
+H:\oussama\charité\charité\bin\Microsoft.Owin.Security.dll
+H:\oussama\charité\charité\bin\Microsoft.Owin.Security.Google.dll
+H:\oussama\charité\charité\bin\MySql.Data.dll
+H:\oussama\charité\charité\bin\Newtonsoft.Json.dll
+H:\oussama\charité\charité\bin\Owin.dll
+H:\oussama\charité\charité\bin\Zlib.Portable.dll
+H:\oussama\charité\charité\bin\Google.Apis.pdb
+H:\oussama\charité\charité\bin\Google.Apis.xml
+H:\oussama\charité\charité\bin\Google.Apis.Auth.pdb
+H:\oussama\charité\charité\bin\Google.Apis.Auth.xml
+H:\oussama\charité\charité\bin\Google.Apis.Auth.PlatformServices.pdb
+H:\oussama\charité\charité\bin\Google.Apis.Auth.PlatformServices.xml
+H:\oussama\charité\charité\bin\Google.Apis.Calendar.v3.pdb
+H:\oussama\charité\charité\bin\Google.Apis.Calendar.v3.xml
+H:\oussama\charité\charité\bin\Google.Apis.Core.pdb
+H:\oussama\charité\charité\bin\Google.Apis.Core.xml
+H:\oussama\charité\charité\bin\Google.Apis.PlatformServices.pdb
+H:\oussama\charité\charité\bin\Google.Apis.PlatformServices.xml
+H:\oussama\charité\charité\bin\Json.pdb
+H:\oussama\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\oussama\charité\charité\bin\Microsoft.Owin.xml
+H:\oussama\charité\charité\bin\Microsoft.Owin.Security.xml
+H:\oussama\charité\charité\bin\Microsoft.Owin.Security.Google.xml
+H:\oussama\charité\charité\bin\MySql.Data.xml
+H:\oussama\charité\charité\bin\Newtonsoft.Json.xml
+H:\oussama\charité\charité\bin\Zlib.Portable.xml
+H:\oussama\charité\charité\obj\Debug\charité.csprojResolveAssemblyReference.cache
+H:\oussama\charité\charité\obj\Debug\charité.dll
+H:\oussama\charité\charité\obj\Debug\charité.pdb
+C:\Users\JASSER\Desktop\charité\charité\bin\roslyn\csc.exe
+C:\Users\JASSER\Desktop\charité\charité\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JASSER\Desktop\charité\charité\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JASSER\Desktop\charité\charité\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\roslyn\vbc.exe
+C:\Users\JASSER\Desktop\charité\charité\bin\roslyn\VBCSCompiler.exe
+C:\Users\JASSER\Desktop\charité\charité\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JASSER\Desktop\charité\charité\bin\client_secret.json
+C:\Users\JASSER\Desktop\charité\charité\bin\charité.dll.config
+C:\Users\JASSER\Desktop\charité\charité\bin\charité.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\charité.pdb
+C:\Users\JASSER\Desktop\charité\charité\bin\ASPSnippets.FaceBookAPI.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\ASPSnippets.GoogleAPI.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.Auth.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.Calendar.v3.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.Core.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.PlatformServices.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Json.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Microsoft.Owin.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Microsoft.Owin.Security.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\MySql.Data.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Newtonsoft.Json.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Owin.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Zlib.Portable.dll
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.pdb
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.xml
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.Auth.pdb
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.Auth.xml
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.Auth.PlatformServices.xml
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.Calendar.v3.pdb
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.Calendar.v3.xml
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.Core.pdb
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.Core.xml
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.PlatformServices.pdb
+C:\Users\JASSER\Desktop\charité\charité\bin\Google.Apis.PlatformServices.xml
+C:\Users\JASSER\Desktop\charité\charité\bin\Json.pdb
+C:\Users\JASSER\Desktop\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JASSER\Desktop\charité\charité\bin\Microsoft.Owin.xml
+C:\Users\JASSER\Desktop\charité\charité\bin\Microsoft.Owin.Security.xml
+C:\Users\JASSER\Desktop\charité\charité\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JASSER\Desktop\charité\charité\bin\MySql.Data.xml
+C:\Users\JASSER\Desktop\charité\charité\bin\Newtonsoft.Json.xml
+C:\Users\JASSER\Desktop\charité\charité\bin\Zlib.Portable.xml
+C:\Users\JASSER\Desktop\charité\charité\obj\Debug\charité.csprojResolveAssemblyReference.cache
+C:\Users\JASSER\Desktop\charité\charité\obj\Debug\charité.dll
+C:\Users\JASSER\Desktop\charité\charité\obj\Debug\charité.pdb
+H:\charité\charité\bin\client_secret.json
+H:\charité\charité\bin\Google.Apis.Auth.dll
+H:\charité\charité\bin\Google.Apis.Auth.PlatformServices.dll
+H:\charité\charité\bin\Google.Apis.Calendar.v3.dll
+H:\charité\charité\bin\Google.Apis.Core.dll
+H:\charité\charité\bin\Google.Apis.dll
+H:\charité\charité\bin\Google.Apis.PlatformServices.dll
+H:\charité\charité\bin\Json.dll
+H:\charité\charité\bin\Zlib.Portable.dll
+H:\charité\charité\bin\Google.Apis.pdb
+H:\charité\charité\bin\Google.Apis.xml
+H:\charité\charité\bin\Google.Apis.Auth.pdb
+H:\charité\charité\bin\Google.Apis.Auth.xml
+H:\charité\charité\bin\Google.Apis.Auth.PlatformServices.pdb
+H:\charité\charité\bin\Google.Apis.Auth.PlatformServices.xml
+H:\charité\charité\bin\Google.Apis.Calendar.v3.pdb
+H:\charité\charité\bin\Google.Apis.Calendar.v3.xml
+H:\charité\charité\bin\Google.Apis.Core.pdb
+H:\charité\charité\bin\Google.Apis.Core.xml
+H:\charité\charité\bin\Google.Apis.PlatformServices.pdb
+H:\charité\charité\bin\Google.Apis.PlatformServices.xml
+H:\charité\charité\bin\Json.pdb
+H:\charité\charité\bin\Zlib.Portable.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\obj\Debug\charité.csprojResolveAssemblyReference.cache
+C:\Users\JASSER\Desktop\ch2\charité\charité\obj\Debug\charité.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\obj\Debug\charité.pdb
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\roslyn\csc.exe
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\roslyn\vbc.exe
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\roslyn\VBCSCompiler.exe
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\client_secret.json
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\charité.dll.config
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\charité.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\charité.pdb
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\ASPSnippets.FaceBookAPI.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\ASPSnippets.GoogleAPI.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.Auth.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.Calendar.v3.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.Core.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.PlatformServices.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Json.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Microsoft.Owin.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Microsoft.Owin.Security.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\MySql.Data.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Newtonsoft.Json.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Owin.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Zlib.Portable.dll
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.pdb
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.Auth.pdb
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.Auth.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.Auth.PlatformServices.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.Calendar.v3.pdb
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.Calendar.v3.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.Core.pdb
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.Core.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.PlatformServices.pdb
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Google.Apis.PlatformServices.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Json.pdb
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Microsoft.Owin.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Microsoft.Owin.Security.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\MySql.Data.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Newtonsoft.Json.xml
+C:\Users\JASSER\Desktop\ch2\charité\charité\bin\Zlib.Portable.xml
+O:\charité\charité\bin\client_secret.json
+O:\charité\charité\bin\Google.Apis.Auth.dll
+O:\charité\charité\bin\Google.Apis.Auth.PlatformServices.dll
+O:\charité\charité\bin\Google.Apis.Calendar.v3.dll
+O:\charité\charité\bin\Google.Apis.Core.dll
+O:\charité\charité\bin\Google.Apis.dll
+O:\charité\charité\bin\Google.Apis.PlatformServices.dll
+O:\charité\charité\bin\Json.dll
+O:\charité\charité\bin\Zlib.Portable.dll
+O:\charité\charité\bin\Google.Apis.pdb
+O:\charité\charité\bin\Google.Apis.xml
+O:\charité\charité\bin\Google.Apis.Auth.pdb
+O:\charité\charité\bin\Google.Apis.Auth.xml
+O:\charité\charité\bin\Google.Apis.Auth.PlatformServices.pdb
+O:\charité\charité\bin\Google.Apis.Auth.PlatformServices.xml
+O:\charité\charité\bin\Google.Apis.Calendar.v3.pdb
+O:\charité\charité\bin\Google.Apis.Calendar.v3.xml
+O:\charité\charité\bin\Google.Apis.Core.pdb
+O:\charité\charité\bin\Google.Apis.Core.xml
+O:\charité\charité\bin\Google.Apis.PlatformServices.pdb
+O:\charité\charité\bin\Google.Apis.PlatformServices.xml
+O:\charité\charité\bin\Json.pdb
+O:\charité\charité\bin\Zlib.Portable.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\roslyn\csc.exe
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\roslyn\System.Collections.Immutable.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\roslyn\System.Reflection.Metadata.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\roslyn\vbc.exe
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\roslyn\VBCSCompiler.exe
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\roslyn\VBCSCompiler.exe.config
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\client_secret.json
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\charité.dll.config
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\charité.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\charité.pdb
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\ASPSnippets.FaceBookAPI.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\ASPSnippets.GoogleAPI.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.Auth.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.Auth.PlatformServices.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.Calendar.v3.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.Core.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.PlatformServices.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Json.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Microsoft.Owin.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Microsoft.Owin.Security.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Microsoft.Owin.Security.Google.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\MySql.Data.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Newtonsoft.Json.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Owin.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Zlib.Portable.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.pdb
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.Auth.pdb
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.Auth.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.Auth.PlatformServices.pdb
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.Auth.PlatformServices.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.Calendar.v3.pdb
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.Calendar.v3.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.Core.pdb
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.Core.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.PlatformServices.pdb
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Google.Apis.PlatformServices.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Json.pdb
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Microsoft.Owin.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Microsoft.Owin.Security.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Microsoft.Owin.Security.Google.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\MySql.Data.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Newtonsoft.Json.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\bin\Zlib.Portable.xml
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\obj\Debug\charité.csprojResolveAssemblyReference.cache
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\obj\Debug\charité.dll
+E:\Users\AceBlazer\Desktop\pfe\charité\charité\obj\Debug\charité.pdb
+D:\pfe\charité\charité\bin\roslyn\csc.exe
+D:\pfe\charité\charité\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\pfe\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\pfe\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\pfe\charité\charité\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\pfe\charité\charité\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\pfe\charité\charité\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\pfe\charité\charité\bin\roslyn\System.Collections.Immutable.dll
+D:\pfe\charité\charité\bin\roslyn\System.Reflection.Metadata.dll
+D:\pfe\charité\charité\bin\roslyn\vbc.exe
+D:\pfe\charité\charité\bin\roslyn\VBCSCompiler.exe
+D:\pfe\charité\charité\bin\roslyn\VBCSCompiler.exe.config
+D:\pfe\charité\charité\bin\client_secret.json
+D:\pfe\charité\charité\bin\charité.dll.config
+D:\pfe\charité\charité\bin\charité.dll
+D:\pfe\charité\charité\bin\charité.pdb
+D:\pfe\charité\charité\bin\ASPSnippets.FaceBookAPI.dll
+D:\pfe\charité\charité\bin\ASPSnippets.GoogleAPI.dll
+D:\pfe\charité\charité\bin\Google.Apis.Auth.dll
+D:\pfe\charité\charité\bin\Google.Apis.Auth.PlatformServices.dll
+D:\pfe\charité\charité\bin\Google.Apis.Calendar.v3.dll
+D:\pfe\charité\charité\bin\Google.Apis.Core.dll
+D:\pfe\charité\charité\bin\Google.Apis.dll
+D:\pfe\charité\charité\bin\Google.Apis.PlatformServices.dll
+D:\pfe\charité\charité\bin\Json.dll
+D:\pfe\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\pfe\charité\charité\bin\Microsoft.Owin.dll
+D:\pfe\charité\charité\bin\Microsoft.Owin.Security.dll
+D:\pfe\charité\charité\bin\Microsoft.Owin.Security.Google.dll
+D:\pfe\charité\charité\bin\MySql.Data.dll
+D:\pfe\charité\charité\bin\Newtonsoft.Json.dll
+D:\pfe\charité\charité\bin\Owin.dll
+D:\pfe\charité\charité\bin\Zlib.Portable.dll
+D:\pfe\charité\charité\bin\Google.Apis.pdb
+D:\pfe\charité\charité\bin\Google.Apis.xml
+D:\pfe\charité\charité\bin\Google.Apis.Auth.pdb
+D:\pfe\charité\charité\bin\Google.Apis.Auth.xml
+D:\pfe\charité\charité\bin\Google.Apis.Auth.PlatformServices.pdb
+D:\pfe\charité\charité\bin\Google.Apis.Auth.PlatformServices.xml
+D:\pfe\charité\charité\bin\Google.Apis.Calendar.v3.pdb
+D:\pfe\charité\charité\bin\Google.Apis.Calendar.v3.xml
+D:\pfe\charité\charité\bin\Google.Apis.Core.pdb
+D:\pfe\charité\charité\bin\Google.Apis.Core.xml
+D:\pfe\charité\charité\bin\Google.Apis.PlatformServices.pdb
+D:\pfe\charité\charité\bin\Google.Apis.PlatformServices.xml
+D:\pfe\charité\charité\bin\Json.pdb
+D:\pfe\charité\charité\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\pfe\charité\charité\bin\Microsoft.Owin.xml
+D:\pfe\charité\charité\bin\Microsoft.Owin.Security.xml
+D:\pfe\charité\charité\bin\Microsoft.Owin.Security.Google.xml
+D:\pfe\charité\charité\bin\MySql.Data.xml
+D:\pfe\charité\charité\bin\Newtonsoft.Json.xml
+D:\pfe\charité\charité\bin\Zlib.Portable.xml
+D:\pfe\charité\charité\obj\Debug\charité.csprojAssemblyReference.cache
+D:\pfe\charité\charité\obj\Debug\charité.csproj.CoreCompileInputs.cache
+D:\pfe\charité\charité\obj\Debug\charité.csproj.CopyComplete
+D:\pfe\charité\charité\obj\Debug\charité.dll
+D:\pfe\charité\charité\obj\Debug\charité.pdb
